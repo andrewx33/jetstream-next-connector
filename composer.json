@@ -1,5 +1,5 @@
 {
-  "name": "ozzie/nextstream",
+  "name": "jetstream-next",
   "description": "Adds support for Next.js into Laravel Jetstream",
   "version": "0.1.2",
   "require": {
